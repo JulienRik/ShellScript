@@ -17,3 +17,17 @@ Ping: 90.493 ms
 Download: 10.36 Mbit/s
 Upload: 0.78 Mbit/s
 Sleeping for 300 seconds...
+12-28 01:34:47: success
+12-28 01:34:48: success
+12-28 01:34:49: success
+12-28 01:34:50: success
+12-28 01:34:51: success
+12-28 01:34:52: success
+12-28 01:34:53: success
+12-28 01:34:54: success
+12-28 01:34:55: success
+12-28 01:34:56: success
+2024-12-28 01:34:58: Ping war 10 mal erfolgreich!
+Running speed test...
+Sleeping for 300 seconds...
+Script terminated by user

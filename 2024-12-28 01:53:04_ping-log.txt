@@ -1,0 +1,26 @@
+Ping-Log-Start: 2024-12-28 01:53:06
+ISP: Vodafone GmbH
+Router:  (192.168.178.1)
+12-28 01:53:06: success
+12-28 01:53:08: success
+12-28 01:53:09: success
+12-28 01:53:10: success
+12-28 01:53:11: success
+12-28 01:53:12: success
+12-28 01:53:13: success
+12-28 01:53:14: success
+12-28 01:53:15: success
+12-28 01:53:17: success
+2024-12-28 01:53:18: Ping war 10 mal erfolgreich!
+Running speed test...
+Retrieving speedtest.net configuration...
+Testing from Vodafone Germany (31.17.42.34)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by Thueringer Netkom GmbH (Weimar) [298.98 km]: 167.188 ms
+Testing download speed................................................................................
+Download: 6.93 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 0.99 Mbit/s
+Sleeping for 300 seconds...
+Script terminated by user

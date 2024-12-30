@@ -1,0 +1,26 @@
+Ping-Log-Start: 2024-12-28 01:44:10
+ISP: Plusnet GmbH
+Router:  (192.168.178.1)
+12-28 01:44:10: success
+12-28 01:44:11: success
+12-28 01:44:12: success
+12-28 01:44:13: success
+12-28 01:44:14: success
+12-28 01:44:15: success
+12-28 01:44:16: success
+12-28 01:44:17: success
+12-28 01:44:18: success
+12-28 01:44:20: success
+2024-12-28 01:44:21: Ping war 10 mal erfolgreich!
+Running speed test...
+Retrieving speedtest.net configuration...
+Testing from Plusnet (92.193.23.173)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by Schlueter Onlinedienste (Ruethen) [218.53 km]: 103.364 ms
+Testing download speed................................................................................
+Download: 9.78 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 1.02 Mbit/s
+Sleeping for 300 seconds...
+Script terminated by user
