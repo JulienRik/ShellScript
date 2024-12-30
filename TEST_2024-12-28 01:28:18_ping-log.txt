@@ -1,0 +1,19 @@
+Ping-Log-Start: 2024-12-28 01:29:05
+ISP: Plusnet GmbH
+Router:  (192.168.178.1)
+12-28 01:29:05: success
+12-28 01:29:06: success
+12-28 01:29:07: success
+12-28 01:29:08: success
+12-28 01:29:10: success
+12-28 01:29:11: success
+12-28 01:29:12: success
+12-28 01:29:13: success
+12-28 01:29:14: success
+12-28 01:29:15: success
+2024-12-28 01:29:16: Ping war 10 mal erfolgreich!
+Running speed test...
+Ping: 90.493 ms
+Download: 10.36 Mbit/s
+Upload: 0.78 Mbit/s
+Sleeping for 300 seconds...

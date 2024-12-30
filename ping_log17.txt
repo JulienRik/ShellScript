@@ -1,0 +1,15 @@
+Ping-Log gestartet am 2024-12-25 21:16:28
+google.com -> 2024-12-25 21:16:28: Erfolgreich: 1/10
+google.com -> 2024-12-25 21:17:28: Erfolgreich: 2/10
+2024-12-25 21:18:28: Ping google.com fehlgeschlagen. Versuche erneut...
+2024-12-25 21:19:39: Ping google.com fehlgeschlagen. Versuche erneut...
+2024-12-25 21:20:50: Ping google.com fehlgeschlagen. Versuche erneut...
+google.com -> 2024-12-25 21:22:01: Erfolgreich: 3/10
+google.com -> 2024-12-25 21:23:01: Erfolgreich: 4/10
+google.com -> 2024-12-25 21:24:02: Erfolgreich: 5/10
+google.com -> 2024-12-25 21:25:02: Erfolgreich: 6/10
+google.com -> 2024-12-25 21:26:02: Erfolgreich: 7/10
+google.com -> 2024-12-25 21:27:02: Erfolgreich: 8/10
+google.com -> 2024-12-25 21:28:02: Erfolgreich: 9/10
+google.com -> 2024-12-25 21:29:02: Erfolgreich: 10/10
+2024-12-25 21:30:02: Ping war 10-mal erfolgreich!

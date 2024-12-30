@@ -1,0 +1,48 @@
+Ping-Log-Start: 2024-12-25 22:37:39
+12-25 22:37:39: success
+12-25 22:37:54: success
+12-25 22:38:09: success
+12-25 22:38:24: success
+12-25 22:38:39: success
+12-25 22:38:54: success
+12-25 22:39:09: success
+12-25 22:39:24: success
+12-25 22:39:39: success
+12-25 22:39:54: success
+2024-12-25 22:40:09: Ping war 10 mal erfolgreich!
+12-25 22:40:09: success
+12-25 22:40:24: success
+12-25 22:40:39: success
+12-25 22:40:55: success
+12-25 22:41:10: success
+12-25 22:41:25: success
+12-25 22:41:40: success
+12-25 22:41:55: success
+12-25 22:42:10: success
+12-25 22:42:25: success
+2024-12-25 22:42:40: Ping war 10 mal erfolgreich!
+12-25 22:42:40: success
+12-25 22:42:55: success
+12-25 22:43:10: success
+12-25 22:43:25: success
+12-25 22:43:40: success
+12-25 22:43:55: success
+12-25 22:44:10: success
+12-25 22:44:25: success
+12-25 22:44:40: success
+12-25 22:44:55: success
+2024-12-25 22:45:10: Ping war 10 mal erfolgreich!
+12-25 22:45:10: success
+12-25 22:45:26: success
+12-25 22:45:41: success
+12-25 22:45:56: success
+12-25 22:46:11: success
+12-25 22:46:26: success
+12-25 22:46:41: success
+12-25 22:46:56: success
+12-25 22:47:11: success
+12-25 22:47:26: success
+2024-12-25 22:47:41: Ping war 10 mal erfolgreich!
+12-25 22:47:41: success
+12-25 22:47:56: success
+Script terminated by user
