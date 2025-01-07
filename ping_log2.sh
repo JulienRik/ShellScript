@@ -5,7 +5,8 @@ target="google.com"
 success_count=0
 max_success=10
 sleep_interval=300
-log_file="$(date "+%Y-%m-%d %H:%M:%S")_ping-log.txt"
+log_dir="$HOME/logs"
+log_file="$log_dir/$(date "+%Y-%m-%d %H:%M:%S")_ping-log.txt"
 fetch_isp_name=true
 
 # Get ISP name
