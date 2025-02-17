@@ -1,8 +1,0 @@
-Ping-Log-Start: 2024-12-26 22:41:04
-12-26 22:41:04: success
-12-26 22:41:19: success
-12-26 22:41:34: success
-12-26 22:41:50: success
-12-26 22:42:05: success
-12-26 22:42:20: success
-Script terminated by user

@@ -1,2 +1,0 @@
-Ping-Log gestartet am 2024-12-25 21:16:14
-google.com -> 2024-12-25 21:16:14: Erfolgreich: 1/10
